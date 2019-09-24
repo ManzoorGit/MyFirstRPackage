@@ -1,0 +1,5 @@
+2019-09-24
+----------
+Version 1.1 :
+- First version of the package
+
