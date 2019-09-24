@@ -1,0 +1,16 @@
+---
+title: "myvignette"
+author: "Manzoor Khan"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+%\VignetteIndexEntry{Vignette Title}
+%\VignetteEngine{knitr::rmarkdown}
+\usepackage[utf8]{inputenc}
+---
+# My First vignette
+## A subsection
+You can use **markdown** syntax in this file, use mathematics:
+$$
+\frac{1}{\sqrt{2\pi}}\int_{\infty}^{\infty}exp\left(-x^2/2\right)=1.
+$$
